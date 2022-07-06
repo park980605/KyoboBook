@@ -28,12 +28,20 @@
 =======
 ## 회원가입 / 로그인
 ### 1. 회원가입
-<img alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png">
+<img alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png"><br>
+<img alt="회원가입 성공" src="https://user-images.githubusercontent.com/104838354/177476226-5c68518f-321d-495e-aff9-9a5e7458ddd9.png">
+
 ### 2. 로그인
+<img alt="로그인" src="https://user-images.githubusercontent.com/104838354/177476400-ac8f14d9-f436-46a4-90d3-cfaa15769e56.png"><br>
+<img alt="로그인 성공" src="https://user-images.githubusercontent.com/104838354/177476446-1890c4ca-1abf-458b-b95c-427f6bf7f220.png">
 
 ### 3. 회원정보 조회
+<img alt="회원정보 조회" src="https://user-images.githubusercontent.com/104838354/177476529-a75f70c1-4770-4a85-ac33-7296b09ff7f2.png">
 
 ### 4. 회원정보 수정
+<img alt="회원정보 변경" src="https://user-images.githubusercontent.com/104838354/177476588-045903c3-a559-49ba-8b7c-1d537592f681.png"><br>
+<img alt="회원정보 변경 성공" src="https://user-images.githubusercontent.com/104838354/177476621-3c0014f0-6546-4057-835e-56c15777dacc.png">
+
 
 ### 5. 도서 목록
 
