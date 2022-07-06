@@ -28,7 +28,7 @@
 =======
 ## 회원가입 / 로그인
 ### 1. 회원가입
-<img scr ="C:\Users\박소연\Pictures\포트폴리오 첨부\회원가입.png" />
+<img src ="C:/Users/박소연/Pictures/포트폴리오 첨부/회원가입.png" />
 
 ### 2. 로그인
 
