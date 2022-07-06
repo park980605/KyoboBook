@@ -68,6 +68,21 @@
 <img alt="고객게시판 페이징처리2" src="https://user-images.githubusercontent.com/104838354/177478793-e0b14e05-e55a-43ed-a874-b672668e4940.png"><br>
 
 ### 2. 고객게시판 작성
+<img alt="고객게시판 글 작성" src="https://user-images.githubusercontent.com/104838354/177481110-29504b2e-c9cb-4220-8ea8-bc022b48bc0e.png"><br>
+<img alt="고객게시판 글 작성 성공" src="https://user-images.githubusercontent.com/104838354/177481164-6dfdf265-cc5b-4f12-b44d-9f13698e43f3.png"><br>
+<img alt="고객게시판 글 조회" src="https://user-images.githubusercontent.com/104838354/177481045-bc5a9d9c-2844-46fe-8123-25583192494a.png"><br>
+
+### 3. 고객게시판 글 수정
+<img alt="고객게시판 글 수정" src="https://user-images.githubusercontent.com/104838354/177481211-4576f431-e841-49f7-b25d-7761a0b3fa7b.png"><br>
+<img alt="고객게시판 글 수정완료" src="https://user-images.githubusercontent.com/104838354/177481261-16e1085f-20f1-4869-b7ef-7680e7fe80d4.png"><br>
+
+### 4. 고객게시판 글 삭제
+<img alt="고객게시판 글 삭제" src="https://user-images.githubusercontent.com/104838354/177481311-1eb2675b-5c48-4e0b-81b0-fd834e151881.png"><br>
+<img alt="고객게시판 글 삭제 완료" src="https://user-images.githubusercontent.com/104838354/177481345-5bd406b5-0c8d-4fd2-8136-15d4fa1d264d.png"><br>
+
+### 5. 고객게시판 검색
+<img alt="고객게시판 검색" src="https://user-images.githubusercontent.com/104838354/177481396-3dec7693-c193-44d4-9b9f-d3a3348b030d.png"><br>
+<img alt="고객게시판 검색완료" src="https://user-images.githubusercontent.com/104838354/177481450-dcd2a86a-8e78-4ef9-8ce8-ee5132826e9f.png"><br>
 
 ## 공지사항 게시판
 
