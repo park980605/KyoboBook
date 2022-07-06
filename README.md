@@ -28,8 +28,7 @@
 =======
 ## 회원가입 / 로그인
 ### 1. 회원가입
-![Uploading 회원가입.png…](C:\Users\박소연\Pictures\포트폴리오 첨부\회원가입.png)
-
+<img width="732" alt="회원가입" src="https://user-images.githubusercontent.com/104838354/177475923-091936fe-7025-41a3-92f3-252e864fe380.png">
 ### 2. 로그인
 
 ### 3. 회원정보 조회
