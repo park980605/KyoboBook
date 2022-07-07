@@ -98,4 +98,11 @@
 <img alt="공지사항 검색" src="https://user-images.githubusercontent.com/104838354/177483128-c69c4c6e-2b31-4fdd-b2d8-a5c2ffccecbc.png"><br>
 <img alt="공지사항 검색완료" src="https://user-images.githubusercontent.com/104838354/177483180-8cd5efff-c222-42f0-b91b-0f81ef51efbb.png"><br>
 
+---------------------------------------
+
+📝보완할 점
+=======
+* 전체적인 오류 확인
+* Spring으로 이식하기
+* 장바구니 기능 보완 및 결제 기능 구현해보기
 
